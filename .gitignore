@@ -1,0 +1,7 @@
+*.directory
+*.o
+*.user.*
+*.user
+*AllGate
+*.autosave
+*Makefile 
